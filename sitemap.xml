@@ -9,28 +9,4 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Services section -->
-  <url>
-    <loc>https://techrepairpro.in/#services</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- About Us section -->
-  <url>
-    <loc>https://techrepairpro.in/#about</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Contact section -->
-  <url>
-    <loc>https://techrepairpro.in/#contact</loc>
-    <lastmod>2025-12-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
 </urlset>
